@@ -1,0 +1,12 @@
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\AddressBook\bin\Debug\AddressBook.exe.config
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\AddressBook\bin\Debug\AddressBook.exe
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\AddressBook\bin\Debug\AddressBook.pdb
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\AddressBook\obj\Debug\AddressBook.csproj.SuggestedBindingRedirects.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\AddressBook\obj\Debug\AddressBook.Form1.resources
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\AddressBook\obj\Debug\AddressBook.exe
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\AddressBook\obj\Debug\AddressBook.pdb
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\AddressBook\obj\Debug\AddressBook.frmSplash.resources
